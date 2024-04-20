@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="59f2e69f-c122-4e34-9f68-4c1bafcb4202" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KtxdhyAPtAmRDP7KRnldFQHNXN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\NewPycharmProject\FaceDetectionVideoPy" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceDetectionVideoPy" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceDetectionVideoPy\images" />
+      <recent name="C:\Users\Fantasy solution\PycharmProjects\FaceDetectionVideoPy" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="M:\NewPycharmProject\FaceDetectionVideoPy\old" />
+      <recent name="M:\NewPycharmProject\FaceDetectionVideoPy\images" />
+      <recent name="M:\NewPycharmProject\FaceDetectionVideoPy\static" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceDetectionVideoPy\templates" />
+      <recent name="C:\Users\Fantasy-PC\PycharmProjects\FaceDetectionVideoPy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.App (1)">
+    <configuration name="App (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectionVideoPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="App" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectionVideoPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Fantasy-PC\PycharmProjects\FaceDetectionVideoPy\App.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Predict2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectionVideoPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/old" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/Predict2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="image_comparison" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectionVideoPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/image_comparison.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main_video" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FaceDetectionVideoPy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_video.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.App (1)" />
+        <item itemvalue="Python.Predict2" />
+        <item itemvalue="Python.main_video" />
+        <item itemvalue="Python.image_comparison" />
+        <item itemvalue="Python.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59f2e69f-c122-4e34-9f68-4c1bafcb4202" name="Default Changelist" comment="" />
+      <created>1674807769081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674807769081</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="442" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1713242404075">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="442" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.816@0.0.1536.816" timestamp="1713242404075" />
+    <state x="460" y="232" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1600.860@0.0.1600.860" timestamp="1711379894635" />
+    <state width="1508" height="196" key="GridCell.Tab.0.bottom" timestamp="1713264683872">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1508" height="196" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1713264683872" />
+    <state width="1579" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1711382569057" />
+    <state width="1508" height="196" key="GridCell.Tab.0.center" timestamp="1713264683872">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1508" height="196" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1713264683872" />
+    <state width="1579" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1711382569056" />
+    <state width="1508" height="196" key="GridCell.Tab.0.left" timestamp="1713264683872">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1508" height="196" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1713264683872" />
+    <state width="1579" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1711382569056" />
+    <state width="1508" height="196" key="GridCell.Tab.0.right" timestamp="1713264683872">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1508" height="196" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1713264683872" />
+    <state width="1579" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1711382569057" />
+    <state x="282" y="79" key="SettingsEditor" timestamp="1713177211372">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="282" y="79" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1713177211372" />
+    <state x="301" y="72" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1711379959243" />
+    <state x="476" y="240" key="com.intellij.ide.util.TipDialog" timestamp="1713177195830">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="476" y="240" key="com.intellij.ide.util.TipDialog/0.0.1536.816@0.0.1536.816" timestamp="1713177195830" />
+    <state x="496" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1711379878707" />
+  </component>
+</project>
