@@ -10,9 +10,8 @@ To develop a facial recognition system that can detect and identify missing indi
 
 - **Language**: Python
 - **Libraries**: OpenCV, NumPy
-- **Algorithm**: Haar Cascade Classifier (Viola–Jones)
-- **Database**: SQLite / MySQL (for person data storage)
-- **GUI (Optional)**: Tkinter
+- **Algorithm**: Haar Cascade 
+- **Database**:  MySQL (for person data storage)
 
 ## 🚀 Features
 
